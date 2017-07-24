@@ -1,0 +1,9 @@
+.video-extras-sparkbar-neutral {
+	float: left;
+	height: 2px;
+	background: #ccc;
+}
+
+.video-extras-sparkbar-dislikes {
+	background: #e43 !important;
+}
